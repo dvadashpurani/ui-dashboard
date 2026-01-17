@@ -1,0 +1,7 @@
+{
+  "name": "Glaido - Ultra-Fast Dictation Dashboard",
+  "description": "A high-performance production-ready dashboard for managing AI-powered speech-to-text dictation workflows, monitoring productivity gains, and configuring voice presets.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
